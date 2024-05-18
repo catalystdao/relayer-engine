@@ -1,6 +1,6 @@
 {
-  "name": "@wormhole-foundation/relayer-engine",
-  "version": "0.3.2",
+  "name": "@catalabs/relayer-engine",
+  "version": "0.3.3",
   "description": "Relayer Engine",
   "type": "module",
   "main": "lib/cjs/relayer/index.js",
